@@ -1,0 +1,8 @@
+Flask
+pymongo
+beautifulsoup4
+passlib
+requests
+werkzeug
+user_agent
+uwsgi
